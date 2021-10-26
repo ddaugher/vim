@@ -1,0 +1,4 @@
+{
+  "elixirLS.dialyzerEnabled": false,
+  "elixir.pathToElixirLS": "~/.vim/plugged/coc-elixir/els-release/language_server.sh"
+}
